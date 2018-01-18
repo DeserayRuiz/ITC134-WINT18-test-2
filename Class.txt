@@ -1,1 +1,5 @@
 This is the first version of class txt
+
+
+
+Here I added a line from the master branch
